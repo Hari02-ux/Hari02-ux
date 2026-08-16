@@ -9,9 +9,9 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=750&lines=Python+%26+Django+Developer;Full+Stack+Web+Developer;Building+Practical+Web+Applications;Learning+DSA+%26+Software+Engineering;Open+to+Software+Development+Opportunities"
-    alt="Typing animation"
-  />
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=750&height=40&lines=Solving+Real+World+Problems;Full+Stack+Web+Developer;Building+Practical+Web+Applications;Learning+DSA+%26+Software+Engineering;Open+to+Software+Development+Opportunities"
+  alt="Typing animation"
+/>
 </p>
 
 <p align="center">
