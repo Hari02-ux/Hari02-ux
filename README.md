@@ -46,10 +46,9 @@ Currently, I'm strengthening my **Data Structures & Algorithms, backend developm
 - Python
 - Django
 - Django REST Framework
-- REST APIs
-- Authentication & Authorization
-- API Integration
-
+- REST APIs 
+- API Integrations
+- Networking
 </td>
 
 <td width="50%" valign="top">
